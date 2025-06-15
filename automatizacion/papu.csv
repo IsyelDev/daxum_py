@@ -1,0 +1,4 @@
+nombre,edad
+elmer,"[np.int64(0), np.int64(1)]"
+manuel,"[np.int64(0), np.int64(1)]"
+erika,"[np.int64(0), np.int64(1)]"
